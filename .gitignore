@@ -1,0 +1,14 @@
+# KiCad local and temporary files
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.lck
+~*.lck
+_autosave-*
+*.bak
+*-bak
+\#auto_saved_files\#
+
+# Fabrication outputs (generate them from the design files)
+fab/
+production/

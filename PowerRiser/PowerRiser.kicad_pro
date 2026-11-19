@@ -531,7 +531,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PowerRiser_v2.2.kicad_pro",
+    "filename": "PowerRiser.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -604,7 +604,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "PowerRiser.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -713,7 +713,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "PowerRiser.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
